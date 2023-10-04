@@ -1,0 +1,117 @@
+
+/* style of first section */
+.believe{
+    background-image: url(images/banner/banner2.png);
+    height: 800px;
+    width: 1200px;
+    text-align: right;
+    font-size: 32px;
+}
+.heading{
+    position: relative;
+    padding-top: 250px;
+    margin-right: 150px;
+}
+#paragraph{
+    position: relative;
+    font-size: 16px;
+    margin-right: 150px;
+}
+.btn-primary{
+    height: 50px;
+    width: 100px;
+    background-color: chocolate;
+    margin-right: 150px;
+    border-radius: 5px;
+}
+/* End of first section */
+/* style of second section */
+.second-section{
+    display: flex;
+}
+.failure{
+    padding-top: 250px;
+    margin-left: 150px; 
+    font-size: 32px;
+}
+.images{
+    height: 15px;
+    width: 15px;
+}
+.right-mark{
+    display: flex;
+}
+/* End of second section */
+/* Style of third section */
+.third-section{
+    padding-top: 250px;
+    padding-bottom: 150px;
+}
+.plans{
+    text-align: center;
+}
+.plans-images{
+    display: flex;
+    padding-left: 200px;
+}
+.second-plan{
+    margin-left: 80px;
+}
+/* End of third Section */
+/* Style of fourth section */
+.fourth-section{
+    background-image: url(images/watch.png);
+    background-repeat: no-repeat;
+    padding-bottom: 200px;
+}
+.container {
+   position: relative;
+  }
+  
+  /* Bottom right text */
+  .text-block {
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+    color: white;
+    padding-right: 900px;
+    padding-left: 50px;
+    padding-bottom: 100px;
+    font-size: 16px;
+  }
+  .call-button{
+    height: 50px;
+    width: 100px;
+    color: tomato;
+  }
+  .footer{
+    background-color: black;
+    height: 400px;
+    width: 1150px;
+  }
+  #email{
+    height: 50px;
+    width: 200px;
+    
+  }
+.footer-container{
+    display: flex;
+}
+.paragraph{
+    color: white;
+}
+.future{
+    padding-right: 400px;
+    padding-left: 100px;
+}
+.Subscribe{
+    padding-right: 100px;
+    padding-top: 100px;
+    
+}
+.Subscribe-button{
+    height: 50px;
+    width: 100px;
+    color: tomato;
+  padding-bottom: 20px;
+}
